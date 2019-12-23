@@ -1,7 +1,7 @@
 {
-  "name": "package",
+  "name": "hangman",
   "version": "1.0.0",
-  "description": "hangman constructor",
+  "description": "new hangman",
   "main": "Guess.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ramblekb/hangman#readme",
   "dependencies": {
     "inquirer": "^6.4.1"
-  }
+  },
+  "devDependencies": {}
 }

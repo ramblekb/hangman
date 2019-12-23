@@ -1,0 +1,10 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    color: lime;
+}
+.card{
+    background-color: darkslategray
+}
+.card-header{
+    background-color: grey
+}
